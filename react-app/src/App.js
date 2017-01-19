@@ -4,11 +4,10 @@ import React from 'react'
 
 class App extends React.Component {
     render() {
-        return ( < div >
-            <
-            h1 > Hello this is my first component < /h1> <
-            b > This is some text in bold format < /b> <
-            /div>
+        return ( <div >
+            <h1 > Hello this is my first component </h1>
+             <b > This is some text in bold format </b>
+             </div>
         )
 
     }
